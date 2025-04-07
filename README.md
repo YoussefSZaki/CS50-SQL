@@ -10,9 +10,9 @@ Link to problem sets 0: https://cs50.harvard.edu/sql/2024/psets/0/
 
 **Solutions**:
 - Psets0
-  - `Cyberchase` 
-  - `36 Views` 
-  - `Players` 
+  - [`Cyberchase`](https://github.com/YoussefSZaki/CS50-SQL/tree/main/psets0/cyberchase) 
+  - [`36 Views`](https://github.com/YoussefSZaki/CS50-SQL/tree/main/psets0/36%20views)
+  - [`Players`](https://github.com/YoussefSZaki/CS50-SQL/tree/main/psets0/players)
 
 ### Week 1: Relating
 Link to problem sets 1: https://cs50.harvard.edu/sql/2024/psets/1/
