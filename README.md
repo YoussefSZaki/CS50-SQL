@@ -19,9 +19,9 @@ Link to problem sets 1: https://cs50.harvard.edu/sql/2024/psets/1/
 
 **Solutions**:
 - Psets1
-  - `Packages, Please` 
-  - `DESE`
-  - `Moneyball`
+  - [`Packages, Please`](https://github.com/YoussefSZaki/CS50-SQL/tree/main/psets1/packages%2C%20please)
+  - [`DESE`](https://github.com/YoussefSZaki/CS50-SQL/tree/main/psets1/dese)
+  - [`Moneyball`](https://github.com/YoussefSZaki/CS50-SQL/tree/main/psets1/moneyball)
 
 ## ⚠️ Disclaimer
 These are my personal solutions to the CS50 SQL problem sets. While they pass all `check50` requirements, there may be alternative (and potentially better) approaches.
