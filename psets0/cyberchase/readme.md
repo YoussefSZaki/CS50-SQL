@@ -68,8 +68,8 @@ SELECT "title" FROM "episodes" WHERE "season" = '5' ORDER BY "title" DESC;
 SELECT COUNT(DISTINCT "title") FROM "episodes";
 ```
 
-### 13. write a SQL query to explore a question of your choice. This query should:
-### > Involve at least one condition, using WHERE with AND or OR
+### 13. write a SQL query to explore a question of your choice.
+**This query should involve at least one condition, using WHERE with AND or OR**
 ```sql
 SELECT "title" FROM "episodes" WHERE ("air_date" LIKE '2019%' OR "air_date" LIKE '2020%');
 ```
