@@ -98,8 +98,8 @@ AND "exemplary" > (SELECT AVG("exemplary") FROM "staff_evaluations")
 ORDER BY "exemplary" DESC, "per_pupil_expenditure" DESC;
 ```
 
-### 13. Write a SQL query to answer a question you have about the data! The query should:
-### > Involve at least one JOIN or subquery
+### 13. Write a SQL query to answer a question you have about the data!
+**The query should involve at least one JOIN or subquery**
 ```sql
 SELECT "name", "dropped", "per_pupil_expenditure" FROM "schools"
 JOIN "graduation_rates" ON "graduation_rates"."school_id" = "schools"."id"
