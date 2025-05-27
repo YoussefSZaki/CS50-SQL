@@ -9,7 +9,7 @@ Process your data into views the Nepali government can use for record-keeping.
 ## Complete Questions
 ## Specification
 
-In each of the corresponding `.sql` files, write a SQL statement to create each of the following views of the data in `census.db`. Note that, while views can be created from other views, each of your views should stand alone (i.e., not rely on a prior view).
+Write a SQL statement to create each of the following views of the data in `census.db`. Note that, while views can be created from other views, each of your views should stand alone (i.e., not rely on a prior view).
 
 ### Rural
 
