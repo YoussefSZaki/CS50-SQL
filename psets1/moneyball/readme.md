@@ -1,4 +1,4 @@
-# CS50 SQL Problem Set 0: [Moneyball](https://cs50.harvard.edu/sql/2024/psets/1/moneyball/)
+# CS50 SQL Problem Set 1: [Moneyball](https://cs50.harvard.edu/sql/2024/psets/1/moneyball/)
 
 ## Problem to Solve
 The year is 2001. You’ve been hired to help make the most of the Oakland Athletics baseball team’s dwindling player budget. Each year, teams like the “A’s” hire new baseball players. Unfortunately, you’re low on star players—and on funds. Though, with a bit of SQL and some luck, who says you can’t still create a team that defies expectations?
