@@ -60,9 +60,9 @@ ORDER BY "brightness" DESC LIMIT 1;
 ```
 
 ### 10. Write a SQL query to answer a question of your choice about the prints. The query should:
-### a. Make use of AS to rename a column
-### b. Involve at least one condition, using WHERE
-### c. Sort by at least one column, using ORDER BY
+**a.** Make use of AS to rename a column  
+**b.** Involve at least one condition, using WHERE   
+**c.** Sort by at least one column, using ORDER BY   
 ```sql
 SELECT "english_title", "brightness" AS "Hokusai Highest to lowest brightness"
 FROM "views" WHERE "artist" = 'Hokusai'
