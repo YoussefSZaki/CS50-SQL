@@ -60,9 +60,9 @@ ORDER BY "first_name" ASC, "last_name" ASC;
 ```
 
 ### 10. write SQL query to answer a question of your choice. This query should:
-### A. Make use of AS to rename a column
-### B. Involve at least condition, using WHERE
-### C. Sort by at least one column using ORDER BY
+**a.** Make use of AS to rename a column  
+**b.** Involve at least condition, using WHERE  
+**c.** Sort by at least one column using ORDER BY  
 ```sql
 SELECT "first_name" AS "first name above average height", "last_name" AS "last name above average height" 
 FROM "players" 
